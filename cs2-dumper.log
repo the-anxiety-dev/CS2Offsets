@@ -1,6 +1,5 @@
-06:26:03 [INFO] found 16 buttons
-06:26:03 [INFO] found 132 interfaces across 33 modules
-06:26:04 [ERROR] outdated pattern: dwNetworkGameClient
-06:26:04 [INFO] found 31 offsets across 5 modules
-06:26:05 [INFO] found 2677 classes and 415 enums across 18 modules
-06:26:05 [INFO] analysis completed in 1.56s
+06:02:09 [INFO] found 16 buttons
+06:02:10 [INFO] found 132 interfaces across 33 modules
+06:02:11 [INFO] found 32 offsets across 5 modules
+06:02:11 [INFO] found 2677 classes and 415 enums across 18 modules
+06:02:12 [INFO] analysis completed in 2.85s
