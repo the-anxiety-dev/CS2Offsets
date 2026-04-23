@@ -6465,6 +6465,11 @@
         ],
         "parent": null
       },
+      "Depth": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "DestructiblePartDamageRequestAPI": {
         "fields": {},
         "metadata": [],
@@ -6611,6 +6616,11 @@
         ],
         "parent": null
       },
+      "S_CLAMP_MIN_RADIUS": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "SellbackPurchaseEntry_t": {
         "fields": {
           "m_bPrevHelmet": 60,
@@ -6698,6 +6708,18 @@
       "WeaponPurchaseTracker_t": {
         "fields": {
           "m_weaponPurchases": 8
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "_": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "__": {
+        "fields": {
+          "": 1074641897
         },
         "metadata": [],
         "parent": null
