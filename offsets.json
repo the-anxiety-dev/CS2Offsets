@@ -1,44 +1,44 @@
 {
   "client.dll": {
-    "dwCSGOInput": 37627408,
-    "dwEntityList": 39287776,
-    "dwGameEntitySystem": 39287776,
-    "dwGameEntitySystem_highestEntityIndex": 8336,
-    "dwGameRules": 37537480,
-    "dwGlobalVars": 34297792,
-    "dwGlowManager": 37524472,
-    "dwLocalPlayerController": 37386448,
-    "dwLocalPlayerPawn": 37538824,
-    "dwPlantedC4": 37319608,
-    "dwPrediction": 37538576,
-    "dwSensitivity": 37527320,
+    "dwCSGOInput": 39289184,
+    "dwEntityList": 40990760,
+    "dwGameEntitySystem": 40990760,
+    "dwGameEntitySystem_highestEntityIndex": 8480,
+    "dwGameRules": 39186000,
+    "dwGlobalVars": 35839640,
+    "dwGlowManager": 39186016,
+    "dwLocalPlayerController": 39034984,
+    "dwLocalPlayerPawn": 39200776,
+    "dwPlantedC4": 38578480,
+    "dwPrediction": 39200528,
+    "dwSensitivity": 39188888,
     "dwSensitivity_sensitivity": 88,
-    "dwViewAngles": 37629080,
-    "dwViewMatrix": 37560816,
-    "dwViewRender": 37560920,
-    "dwWeaponC4": 36984616
+    "dwViewAngles": 39290856,
+    "dwViewMatrix": 39223200,
+    "dwViewRender": 39225704,
+    "dwWeaponC4": 38562544
   },
   "engine2.dll": {
-    "dwBuildNumber": 6358436,
-    "dwNetworkGameClient": 9496224,
-    "dwNetworkGameClient_clientTickCount": 888,
+    "dwBuildNumber": 6410216,
+    "dwNetworkGameClient": 9547712,
+    "dwNetworkGameClient_clientTickCount": 920,
     "dwNetworkGameClient_deltaTick": 588,
-    "dwNetworkGameClient_isBackgroundMap": 2888735,
+    "dwNetworkGameClient_isBackgroundMap": 2888767,
     "dwNetworkGameClient_localPlayer": 248,
     "dwNetworkGameClient_maxClients": 576,
     "dwNetworkGameClient_serverTickCount": 588,
     "dwNetworkGameClient_signOnState": 560,
-    "dwWindowHeight": 9513668,
-    "dwWindowWidth": 9513664
+    "dwWindowHeight": 9564980,
+    "dwWindowWidth": 9564976
   },
   "inputsystem.dll": {
-    "dwInputSystem": 285600
+    "dwInputSystem": 289728
   },
   "matchmaking.dll": {
-    "dwGameTypes": 1761152
+    "dwGameTypes": 1773520
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 5551568,
-    "dwSoundSystem_engineViewData": 124
+    "dwSoundSystem": 5460816,
+    "dwSoundSystem_engineViewData": 108
   }
 }
